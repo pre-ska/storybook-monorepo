@@ -1,0 +1,11 @@
+{
+  "name": "storybook-design-system",
+  "packageManager": "yarn@3.6.4",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "4.7.2"
+  }
+}

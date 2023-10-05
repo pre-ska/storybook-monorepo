@@ -1,0 +1,10 @@
+{
+  "name": "@newline-ds/react",
+  "packageManager": "yarn@3.6.4",
+  "dependencies": {
+    "@newline-ds/foundation": "workspace:^"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
